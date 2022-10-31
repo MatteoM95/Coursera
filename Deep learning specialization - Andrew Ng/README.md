@@ -22,14 +22,14 @@ This repo contains all the assignment for this specialization. The code base and
   - Week 1 - [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Slides/Slide_W1.pdf)
   - Week 2 -  [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Slides/Slide_W2.pdf)
   - Week 3 - [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Slides/Slide_W3.pdf)
-  - week 4 - [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Slides/Slide_W4.pdf)
+  - Week 4 - [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Slides/Slide_W4.pdf)
 
 
 **Project Assignment**
   - Week 2 - [Python Basics with Numpy](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W1%20Python%20Basics%20with%20Numpy/Python_Basics_with_Numpy.ipynb) 
   - Week 2 - [Logistic Regression with a Neural Network mindset](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W2%20Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
   - Week 3 - [Planar data classification with one hidden layer](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W3%20Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_one_hidden_layer.ipynb) 
-  - Week 4 - [Building your Deep Neural Network: Step by Step](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W4%20Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step.ipynb) | [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Slides/Slide_W4.pdf)
+  - Week 4 - [Building your Deep Neural Network: Step by Step](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W4%20Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
   - Week 4 - [Deep Neural Network for Image Classification: Application](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W4%20Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application.ipynb) 
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
