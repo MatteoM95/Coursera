@@ -1,6 +1,6 @@
-# Deep Learning Specialization on Coursera (offered by deeplearning.ai)
+# Deep Learning Specialization on Coursera (Deeplearning.ai)
 
-Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
+Programming assignments from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `Deeplearning.ai`, finished October 2022.
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
@@ -14,21 +14,15 @@ Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract
 
 ## Credits
 
-This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
-
-## 2021 Version
-
-This specialization was updated in April 2021 to include developments in deep learning and programming frameworks, with the biggest change being shifting from TensorFlow 1 to TensorFlow 2. This repo has been updated accordingly as well.
-
-## Programming Assignments
+This repo contains all the assignment for this specialization. The code base and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
 ### Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - PA 1 - Python Basics with Numpy](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
-  - [Week 2 - PA 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
-  - [Week 3 - PA 3 - Planar data classification with one hidden layer](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-  - [Week 4 - PA 4 - Building your Deep Neural Network: Step by Step](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-  - [Week 4 - PA 5 - Deep Neural Network for Image Classification: Application](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
+  - [Week 2 - PA 1 - Python Basics with Numpy](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W1%20Python%20Basics%20with%20Numpy/Python_Basics_with_Numpy.ipynb)
+  - [Week 2 - PA 2 - Logistic Regression with a Neural Network mindset](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W2%20Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+  - [Week 3 - PA 3 - Planar data classification with one hidden layer](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W3%20Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_one_hidden_layer.ipynb)
+  - [Week 4 - PA 4 - Building your Deep Neural Network: Step by Step](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W4%20Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [Week 4 - PA 5 - Deep Neural Network for Image Classification: Application](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W4%20Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
