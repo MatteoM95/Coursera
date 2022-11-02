@@ -4,6 +4,7 @@ Programming assignments from all courses in the Coursera [Deep Learning speciali
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
+
 ## Notes
 
 For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer [www.aman.ai](https://aman.ai/).
