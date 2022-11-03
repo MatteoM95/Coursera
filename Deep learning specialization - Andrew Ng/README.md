@@ -48,8 +48,10 @@ This repo contains all the assignment for this specialization. The code base and
 
 ### Course 3: Structuring Machine Learning Projects
 
-  - There are no programming assignments for this course. But this course comes with very interesting case study quizzes (below).
-  
+**Slides and Notes**
+  - Week 1 - [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C3%20-%20Structuring%20Machine%20Learning%20Projects/Slides/Slide_W1.pdf)
+  - Week 2 -  [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C3%20-%20Structuring%20Machine%20Learning%20Projects/Slides/Slide_W2.pdf)
+
 ### Course 4: Convolutional Neural Networks
 
   - [Week 1 - PA 1 - Convolutional Model: step by step](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v1.ipynb)
