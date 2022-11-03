@@ -38,12 +38,13 @@ This repo contains all the assignment for this specialization. The code base and
   - Week 1 - [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Slides/Slide_W1.pdf)
   - Week 2 -  [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Slides/Slide_W2.pdf)
   - Week 3 - [Slide](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Slides/Slide_W3.pdf)
-   
-  - [Week 1 - PA 1 - Initialization](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W1%20Initialization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W1%20Regularization/Regularization.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W1%20Gradient%20Checking/Gradient_Checking.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W2%20Optimization%20methods/Optimization_methods.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W3%20Tensorflow%20introduction/Tensorflow_introduction.ipynb)
+  
+**Project Assignment**
+  - Week 1 - [Initialization](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W1%20Initialization/Initialization.ipynb)
+  - Week 1 - [Regularization](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W1%20Regularization/Regularization.ipynb)
+  - Week 1 - [Gradient Checking](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W1%20Gradient%20Checking/Gradient_Checking.ipynb)
+  - Week 2 - [Optimization Methods](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W2%20Optimization%20methods/Optimization_methods.ipynb)
+  - Week 3 - [TensorFlow Tutorial](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/W3%20Tensorflow%20introduction/Tensorflow_introduction.ipynb)
 
 ### Course 3: Structuring Machine Learning Projects
 
