@@ -83,7 +83,5 @@ Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract
   - Week 3 - [Neural Machine Translation with Attention](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C5%20-%20Sequence%20Models/W3%20Neural%20Machine%20Translation/Neural_machine_translation_with_attention.ipynb)  
   - Week 3 - [Trigger Word Detection](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C5%20-%20Sequence%20Models/W3%20Trigger%20word%20detection/Trigger_word_detection.ipynb)
   - Week 4 - [Transformer Network](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C5%20-%20Sequence%20Models/W4%20Transformer%20Network/Transformer_Architecture.ipynb)  
-  - [Week 3 - PA 2 - Transformer Network Application: Named-Entity Recognition](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Named%20Entity%20Recognition/Transformer_application_Named_Entity_Recognition.ipynb)   
-  - [Week 3 - PA 2 - Transformer Network Application: Question Answering](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Question%20Answering/QA_transformer.ipynb) 
   
 
