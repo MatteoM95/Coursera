@@ -4,10 +4,6 @@ Programming assignments from all courses in the Coursera [Deep Learning speciali
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-## Notes
-
-For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer [www.aman.ai](https://aman.ai/).
-
 ## Setup
 
 Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract the zip'd pre-trained models and datasets that are needed for all the assignments.
@@ -83,5 +79,8 @@ Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract
   - Week 3 - [Neural Machine Translation with Attention](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C5%20-%20Sequence%20Models/W3%20Neural%20Machine%20Translation/Neural_machine_translation_with_attention.ipynb)  
   - Week 3 - [Trigger Word Detection](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C5%20-%20Sequence%20Models/W3%20Trigger%20word%20detection/Trigger_word_detection.ipynb)
   - Week 4 - [Transformer Network](https://github.com/MatteoM95/Coursera/blob/main/Deep%20learning%20specialization%20-%20Andrew%20Ng/C5%20-%20Sequence%20Models/W4%20Transformer%20Network/Transformer_Architecture.ipynb)  
-  
+
+## Notes
+
+For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer [www.aman.ai](https://aman.ai/).
 
